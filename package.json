@@ -9,9 +9,10 @@
     "preview": "vite preview",
     "lint": "tsc --noEmit"
   },
-  "dependencies": {
-    "react": "^19.2.3",
-    "react-dom": "^19.2.3",
+ "dependencies": {
+  "react": "^18.2.0",
+  "react-dom": "^18.2.0"
+}
     "framer-motion": "11.11.17",
     "lucide-react": "0.462.0"
   },
